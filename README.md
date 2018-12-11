@@ -1,4 +1,4 @@
-# Episode-1__The-Plant-Shop
+# Episode-2__The-Plant-Shop
 Repo for the second episode of Developer Shootout.
 
 Two Developers will be tasked with creating a given mockup for a single section in a one hour time frame.
